@@ -10,8 +10,8 @@ sorry for inconvenience from unfinished page.
 ### File Descriptions
 
 ### Results
-found findings about aged group proportion, **will upload the result once my workbook finished
-found insights when comparing the proportions from financial type between general population and the customer group.
+- found findings about aged group proportion, **will upload the result once my workbook finished
+- found insights when comparing the proportions from financial type between general population and the customer group.
 
 ### Acknowledgemnts
 
