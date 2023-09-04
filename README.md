@@ -13,6 +13,8 @@ sorry for inconvenience from unfinished page.
 - found findings about aged group proportion, **will upload the result once my workbook finished
 - found insights when comparing the proportions from financial type between general population and the customer group.
 - findings in proportions based on income distribution
-- 
+
 ### Acknowledgemnts
 
+### Last progress on other workbook
+- continue analytics using some visualization
