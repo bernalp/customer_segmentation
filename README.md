@@ -18,3 +18,5 @@ sorry for inconvenience from unfinished page.
 
 ### Last progress on other workbook
 - continue analytics using some visualization
+- aggregate and visualize the distribution values
+- preparing data cleaning and data preprocessing steps
