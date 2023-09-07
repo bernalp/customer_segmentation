@@ -20,3 +20,4 @@ sorry for inconvenience from unfinished page.
 - continue analytics using some visualization
 - aggregate and visualize the distribution values
 - preparing data cleaning and data preprocessing steps
+- woking on clean_data function due to memory limitaitons
