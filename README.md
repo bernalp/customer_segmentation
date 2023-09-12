@@ -21,3 +21,11 @@ sorry for inconvenience from unfinished page.
 - aggregate and visualize the distribution values
 - preparing data cleaning and data preprocessing steps
 - woking on clean_data function due to memory limitaitons
+- solved try clean_data function using this scenario
+    - Cleaning specific columns
+    - Handling unknown values
+    - Dropping unnecessary columns
+    - Creating dummy variables for categorical columns
+    - Removing rows and columns with a high percentage of missing values
+    - Handling outliers in the 'ANZ_HAUSHALTE_AKTIV' column
+    - And limiting fraction by 2% of dataframe for efficiency
