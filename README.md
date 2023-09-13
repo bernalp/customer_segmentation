@@ -29,3 +29,4 @@ sorry for inconvenience from unfinished page.
     - Removing rows and columns with a high percentage of missing values
     - Handling outliers in the 'ANZ_HAUSHALTE_AKTIV' column
     - And limiting fraction by 2% of dataframe for efficiency
+- drop "AGER_TYP" column since it has high 76.4% missing values, and impute missing values in other columns.
