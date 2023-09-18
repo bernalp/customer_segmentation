@@ -30,3 +30,10 @@ sorry for inconvenience from unfinished page.
     - Handling outliers in the 'ANZ_HAUSHALTE_AKTIV' column
     - And limiting fraction by 2% of dataframe for efficiency
 - drop "AGER_TYP" column since it has high 76.4% missing values, and impute missing values in other columns.
+- editing MinMaxScaler script
+- create an instance of PCA and calculate principal components
+- create figure 'Cumulative Explained Variance Ratio by PCA Components'
+- create an instance of PCA class with 180 principal components
+- calculate the principal components while retaining only 180 components
+- create a list of component labels for the principal components obtained from PCA analysis
+- create a DataFrame (df_pca_180) to store the principal components as rows and features as columns.
