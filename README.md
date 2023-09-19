@@ -36,4 +36,6 @@ sorry for inconvenience from unfinished page.
 - create an instance of PCA class with 180 principal components
 - calculate the principal components while retaining only 180 components
 - create a list of component labels for the principal components obtained from PCA analysis
-- create a DataFrame (df_pca_180) to store the principal components as rows and features as columns.
+- create a DataFrame (df_pca_180) to store the principal components as rows and features as columns
+- calculate the Within-Cluster Sum of Squares (WCSS) for different numbers of clusters
+- create a plot to visualize the Within-Cluster Sum of Squares (WCSS) for different numbers of clusters
