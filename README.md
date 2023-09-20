@@ -39,3 +39,11 @@ sorry for inconvenience from unfinished page.
 - create a DataFrame (df_pca_180) to store the principal components as rows and features as columns
 - calculate the Within-Cluster Sum of Squares (WCSS) for different numbers of clusters
 - create a plot to visualize the Within-Cluster Sum of Squares (WCSS) for different numbers of clusters
+- fixing silhouette_score calculations due to memory limitations
+- create list containing the results of the MiniBatchKMeans clustering algorithm
+- predict the cluster labels using 5 clusters
+- create a countplot using the predicted cluster labels obtained from KMeans
+- create a DataFrame containing the mean values of the features in azdias_clean
+- calculate the mean values of features for each cluster in the 'kmeans_cluster' column
+- rename the index of the 'cluster_means' DataFrame to make it more descriptive
+- Findings (5): Cluster-Based Profiles: How Clusters Differ from Overall Dataset
