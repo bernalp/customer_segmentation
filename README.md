@@ -47,3 +47,12 @@ sorry for inconvenience from unfinished page.
 - calculate the mean values of features for each cluster in the 'kmeans_cluster' column
 - rename the index of the 'cluster_means' DataFrame to make it more descriptive
 - Findings (5): Cluster-Based Profiles: How Clusters Differ from Overall Dataset
+- Clean the customers dataset & Keep the same columns as in azdias dataset
+- Check & handling missing values in customers dataset
+- Scale the customers' data using the same scaler as applied to the azdias dataset
+- Create dataframes for cluster labels of both general population and customers datasets & add 'type' column to distinguish between them
+- Calculate the number of data points in each cluster for both general population and customers datasets
+- Calculate the total number of data points for each dataset
+- Merge the counts of data points per cluster with the total counts per dataset
+- Calculate the proportion of data points in each cluster for both datasets
+- Create a bar plot to visualize cluster proportions
