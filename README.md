@@ -56,3 +56,7 @@ sorry for inconvenience from unfinished page.
 - Merge the counts of data points per cluster with the total counts per dataset
 - Calculate the proportion of data points in each cluster for both datasets
 - Create a bar plot to visualize cluster proportions
+- Calculate cluster proportions for customers
+- Calculate cluster proportions for the general population
+- Display percentages for each cluster for both customers and the general population
+- Findings (6): Cluster Analysis: Comparing Customer and General Population Segment
