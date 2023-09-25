@@ -60,3 +60,15 @@ sorry for inconvenience from unfinished page.
 - Calculate cluster proportions for the general population
 - Display percentages for each cluster for both customers and the general population
 - Findings (6): Cluster Analysis: Comparing Customer and General Population Segment
+- Continue progress on Part 2: Supervised Learning Model
+- summary basic info and statistic drom mailout_train dataset
+- Clean the 'mailout_train' dataset using a custom 'clean_data' function
+- Extract the 'RESPONSE' column as the target variable
+- Remove the 'RESPONSE' column from the training dataset as it's the target variable
+- check and display missing values and percentages
+- Replace NaNs with the mean value in mailout_train_clean
+- Apply scaling to the 'mailout_train_clean' data using the fitted scaler
+- Apply dimensionality reduction to the 'mailout_train_scaled' data using the learned PCA model with 100 components
+- Split the data into features (X) and the target variable (y)
+- Split the dataset into training and testing sets
+- Calculate the counts of unique elements in y_test & y_train
