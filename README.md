@@ -72,3 +72,15 @@ sorry for inconvenience from unfinished page.
 - Split the data into features (X) and the target variable (y)
 - Split the dataset into training and testing sets
 - Calculate the counts of unique elements in y_test & y_train
+- Continue progression: Random Forest Classifier
+- Create a Random Forest Classifier with balanced class weights
+- Define a parameter grid for hyperparameter tuning -> testing several case to keep data quality but reduce time consume 
+- Create a grid search using cross-validation to find the best hyperparameters for the classifier
+- Fit the grid search to find the best hyperparameters for the classifier
+- Get the best estimator (model) from the grid search
+- Create the 'data' directory & Save the best model to a file using pickle
+- Get the best hyperparameters from the grid search
+- Calculate the accuracy score of the best model on the training data & testing data
+- Make predictions on the testing data using the best model
+- Create a confusion matrix to evaluate the model's performance on the testing data
+- Calculate the ROC AUC score to evaluate the model's performance on the testing data
