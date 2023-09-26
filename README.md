@@ -84,3 +84,13 @@ sorry for inconvenience from unfinished page.
 - Make predictions on the testing data using the best model
 - Create a confusion matrix to evaluate the model's performance on the testing data
 - Calculate the ROC AUC score to evaluate the model's performance on the testing data
+- Continue progression: Logistic Regression
+- Define a parameter grid for hyperparameter tuning for Logistic Regression
+- Create a Logistic Regression classifier with balanced class weights and increased maximum iterations
+- Create a grid search using cross-validation to find the best hyperparameters for the logistic regression classifier
+- Get the best estimator (model) from the grid search for logistic regression
+- Save the best logistic regression model to a file using pickle
+- Retrieve the best hyperparameters found by the grid search for the logistic regression model
+- Use the best logistic regression model to predict on the test data
+- Create a confusion matrix to evaluate the logistic regression model's performance on the testing data
+- Calculate the ROC AUC score to evaluate the logistic regression model's performance on the testing data
