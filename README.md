@@ -94,3 +94,4 @@ sorry for inconvenience from unfinished page.
 - Use the best logistic regression model to predict on the test data
 - Create a confusion matrix to evaluate the logistic regression model's performance on the testing data
 - Calculate the ROC AUC score to evaluate the logistic regression model's performance on the testing data
+- testing more due eficiency in running time
