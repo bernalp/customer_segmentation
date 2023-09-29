@@ -95,3 +95,11 @@ sorry for inconvenience from unfinished page.
 - Create a confusion matrix to evaluate the logistic regression model's performance on the testing data
 - Calculate the ROC AUC score to evaluate the logistic regression model's performance on the testing data
 - testing more due eficiency in running time
+- Continue progression: XGBoost
+- Create an XGBoost Classifier with a specified scale_pos_weight
+- Define a parameter grid for hyperparameter tuning
+- Create a grid search using cross-validation to find the best hyperparameters for the XGBoost classifier
+- Get the best estimator (model) from the grid search
+- Predict using the best XGBoost model
+- Create a confusion matrix to evaluate the XGBoost model's performance on the testing data
+- Calculate the ROC AUC score to evaluate the XGBoost model's performance on the testing data
