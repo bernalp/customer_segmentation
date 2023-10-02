@@ -103,3 +103,8 @@ sorry for inconvenience from unfinished page.
 - Predict using the best XGBoost model
 - Create a confusion matrix to evaluate the XGBoost model's performance on the testing data
 - Calculate the ROC AUC score to evaluate the XGBoost model's performance on the testing data
+- Continue progression: Models evaluation
+- Create a confusion matrix with specified labels to evaluate the model's performance
+- Calculate accuracy from a confusion matrix.
+- Create a summary DataFrame with evaluation metrics for different classifiers
+- Findings (7): Evaluating ROC AUC and Accuracy Metrics
