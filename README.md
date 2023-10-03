@@ -108,3 +108,5 @@ sorry for inconvenience from unfinished page.
 - Calculate accuracy from a confusion matrix.
 - Create a summary DataFrame with evaluation metrics for different classifiers
 - Findings (7): Evaluating ROC AUC and Accuracy Metrics
+- Bundling previous work into a function
+- Plots the learning curve of a machine learning model using the provided estimator, train_sizes, and cross-validation strategy.
