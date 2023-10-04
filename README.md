@@ -110,3 +110,4 @@ sorry for inconvenience from unfinished page.
 - Findings (7): Evaluating ROC AUC and Accuracy Metrics
 - Bundling previous work into a function
 - Plots the learning curve of a machine learning model using the provided estimator, train_sizes, and cross-validation strategy.
+- Still try different approach to make computation time better
