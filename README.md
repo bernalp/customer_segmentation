@@ -112,3 +112,4 @@ sorry for inconvenience from unfinished page.
 - Plots the learning curve of a machine learning model using the provided estimator, train_sizes, and cross-validation strategy.
 - Try different approach to make computation time better
 - Still working on learning_curves function due to computation limit
+- Plotting learning curves for different models
