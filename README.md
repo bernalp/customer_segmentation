@@ -115,3 +115,9 @@ sorry for inconvenience from unfinished page.
 - Plotting learning curves for different models
 - Visualizing ROC curves for different models
 - Visualizing Confusion Matrix for different models
+- Final Conclusions
+- Understand Customer Behavior
+- Predict and Prevent Problems
+- Optimize Resource Allocation
+- Continuous Improvement & Adaptability
+- Creating Happy Customers
