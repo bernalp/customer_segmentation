@@ -115,6 +115,11 @@ sorry for inconvenience from unfinished page.
 - Plotting learning curves for different models
 - Visualizing ROC curves for different models
 - Visualizing Confusion Matrix for different models
+- Future Improvements
+- Keep Updated Real-Time Data
+- Enchance Data Knowledge
+- Explore Advanced Analytics
+- Collaboration is Key
 - Final Conclusions
 - Understand Customer Behavior
 - Predict and Prevent Problems
