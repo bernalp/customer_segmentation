@@ -126,3 +126,4 @@ sorry for inconvenience from unfinished page.
 - Optimize Resource Allocation
 - Continuous Improvement & Adaptability
 - Creating Happy Customers
+- finishing script for conclusions and future improvement
