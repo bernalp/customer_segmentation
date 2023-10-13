@@ -127,3 +127,4 @@ sorry for inconvenience from unfinished page.
 - Continuous Improvement & Adaptability
 - Creating Happy Customers
 - finishing script for conclusions and future improvement
+- Find technical Improvements possibility
