@@ -115,11 +115,6 @@ sorry for inconvenience from unfinished page.
 - Plotting learning curves for different models
 - Visualizing ROC curves for different models
 - Visualizing Confusion Matrix for different models
-- Future Improvements
-- Keep Updated Real-Time Data
-- Enchance Data Knowledge
-- Explore Advanced Analytics
-- Collaboration is Key
 - Final Conclusions
 - Understand Customer Behavior
 - Predict and Prevent Problems
@@ -128,3 +123,18 @@ sorry for inconvenience from unfinished page.
 - Creating Happy Customers
 - finishing script for conclusions and future improvement
 - Find technical Improvements possibility
+- Future Improvements
+- Keep Updated Real-Time Data
+- Enchance Data Knowledge
+- Explore Advanced Analytics
+- Collaboration is Key
+- Technical Improvements
+- Review Data Quality
+- Feature Engineering
+- Model Improvement
+- Class Imbalance
+- Domain Expert Consultation
+- Regular Model Evaluation
+- Explore External Factors
+- Customer Segmentation
+- Experimentation and Prototyping
