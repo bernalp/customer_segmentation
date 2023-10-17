@@ -138,3 +138,4 @@ sorry for inconvenience from unfinished page.
 - Explore External Factors
 - Customer Segmentation
 - Experimentation and Prototyping
+- CLosure
