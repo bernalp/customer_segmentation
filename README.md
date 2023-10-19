@@ -140,4 +140,5 @@ sorry for inconvenience from unfinished page.
 - Experimentation and Prototyping
 - Closure
 - added Acknowledgments
+- added Table of Contents
 
