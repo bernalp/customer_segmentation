@@ -141,4 +141,5 @@ sorry for inconvenience from unfinished page.
 - Closure
 - added Acknowledgments
 - added Table of Contents
+- edit script for business questions
 
