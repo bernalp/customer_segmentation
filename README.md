@@ -142,4 +142,5 @@ sorry for inconvenience from unfinished page.
 - added Acknowledgments
 - added Table of Contents
 - edit script for business questions
+- double check and edit script to make sure introduction an final conslusions linear
 
