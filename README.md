@@ -146,3 +146,4 @@ sorry for inconvenience from unfinished page.
 - restructure sub-section from project workspace
 - alignment script from findings 1 to findings 5
 - continue restructure sub-section from project workspace
+- re-run, check, and finishing all workbook
