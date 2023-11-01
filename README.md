@@ -3,7 +3,9 @@
 ** this is still draft repositories, I working on code in other workspaces.
 sorry for inconvenience from unfinished page.
 
-### Introductions
+### Introduction
+
+In this project, we'll analyze demographics data for customers of a mail-order sales company in Germany, comparing it against demographics information for the general population. Then, we use unsupervised learning techniques to perform customer segmentation, and identifying the parts of the population that best describe the core customer base of the company. Last, we'll use the informations for target marketing campaign, and use model to predict which individuals are most likely to become customers.
 
 ### Project Motivation
 
