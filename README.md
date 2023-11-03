@@ -6,10 +6,17 @@ sorry for inconvenience from unfinished page.
 ## Table of Contents
 
 - **1.** [Introduction](#1.)
+- **2.** [File Descriptions](#2.)
 
 ### 1. Introduction <a name="1."></a>
 
 In this project, we'll analyze demographics data for customers of a mail-order sales company in Germany, comparing it against demographics information for the general population. Then, we use unsupervised learning techniques to perform customer segmentation, and identifying the parts of the population that best describe the core customer base of the company. Last, we'll use the informations for target marketing campaign, and use model to predict which individuals are most likely to become customers.
+
+## 2. File Descriptions <a name="2."></a>
+
+- Jupyter Notebook that contain work related for this project was uploaded using `.ipynb` file.
+- If you would like to access the datasets to explore more analysis, you can find data folder contains `DIAS Attributes - Values 2017.xlsx` , `DIAS Information Levels - Attributes 2017.xlsx` , `random_forest_model.pkl` , and `logreg_model.pkl`.
+- To access all details about project workspace and datasets that I mentioned above, you can find `Arvato_Project_Workbook.ipynb`.
 
 ### File Descriptions
 
