@@ -5,8 +5,41 @@ sorry for inconvenience from unfinished page.
 
 ## Table of Contents
 
-- **1.** [Introduction](#1.)
-- **2.** [File Descriptions](#2.)
+- **1.** [Installation](#1.)
+- **2.** [Introduction](#2.)
+- **3.** [File Descriptions](#3.)
+
+## 1. Installation <a name="installation"></a>
+
+I developed this project using Python 3.11.3 and list libraries that I've been used are:
+
+    - numpy
+    - pandas
+    - matplotlib.pyplot
+    - seaborn
+    - %matplotlib inline
+    - openpyxl
+    - load_workbook
+    - psutil
+    - stats from scipy
+    - MinMaxScaler from sklearn.preprocessing
+    - PCA from sklearn.decomposition
+    - tqdm
+    - KMeans from sklearn.cluster
+    - MiniBatchKMeans from sklearn.cluster
+    - silhouette_score from sklearn.metrics
+    - train_test_split from sklearn.model_selection
+    - andomForestClassifier from sklearn.ensemble
+    - GridSearchCV from sklearn.model_selection
+    - pickle
+    - confusion_matrix from sklearn.metrics
+    - roc_auc_score from sklearn.metrics
+    - LogisticRegression from sklearn.linear_model
+    - warnings
+    - xgb from xgboost
+    - roc_curve, roc_auc_score from sklearn.metrics
+
+These libraries have been used for various purposes throughout the project, including data manipulation, visualization, machine learning, evaluation, and more.
 
 ### 1. Introduction <a name="1."></a>
 
