@@ -51,8 +51,6 @@ In this project, we'll analyze demographics data for customers of a mail-order s
 - If you would like to access the datasets to explore more analysis, you can find data folder contains `DIAS Attributes - Values 2017.xlsx` , `DIAS Information Levels - Attributes 2017.xlsx` , `random_forest_model.pkl` , and `logreg_model.pkl`.
 - To access all details about project workspace and datasets that I mentioned above, you can find `Arvato_Project_Workbook.ipynb`.
 
-### File Descriptions
-
 ### Results
 - found findings about aged group proportion, **will upload the result once my workbook finished
 - found insights when comparing the proportions from financial type between general population and the customer group.
