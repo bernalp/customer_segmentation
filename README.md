@@ -9,7 +9,7 @@ sorry for inconvenience from unfinished page.
 - **2.** [Introduction](#2.)
 - **3.** [File Descriptions](#3.)
 
-## 1. Installation <a name="installation"></a>
+### 1. Installation <a name="1."></a>
 
 I developed this project using Python 3.11.3 and list libraries that I've been used are:
 
@@ -41,11 +41,11 @@ I developed this project using Python 3.11.3 and list libraries that I've been u
 
 These libraries have been used for various purposes throughout the project, including data manipulation, visualization, machine learning, evaluation, and more.
 
-### 1. Introduction <a name="1."></a>
+### 2. Introduction <a name="2."></a>
 
 In this project, we'll analyze demographics data for customers of a mail-order sales company in Germany, comparing it against demographics information for the general population. Then, we use unsupervised learning techniques to perform customer segmentation, and identifying the parts of the population that best describe the core customer base of the company. Last, we'll use the informations for target marketing campaign, and use model to predict which individuals are most likely to become customers.
 
-## 2. File Descriptions <a name="2."></a>
+### 3. File Descriptions <a name="3."></a>
 
 - Jupyter Notebook that contain work related for this project was uploaded using `.ipynb` file.
 - If you would like to access the datasets to explore more analysis, you can find data folder contains `DIAS Attributes - Values 2017.xlsx` , `DIAS Information Levels - Attributes 2017.xlsx` , `random_forest_model.pkl` , and `logreg_model.pkl`.
