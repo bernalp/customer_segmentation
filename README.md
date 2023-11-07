@@ -8,7 +8,8 @@ sorry for inconvenience from unfinished page.
 - **1.** [Installation](#1.)
 - **2.** [Introduction](#2.)
 - **3.** [File Descriptions](#3.)
-- **4.** [Results](#4.)
+- **4.** [Results](#4.) **edit
+- **5.** [Acknowledgemnts](#5.)
 
 ### 1. Installation <a name="1."></a>
 
@@ -52,12 +53,16 @@ In this project, we'll analyze demographics data for customers of a mail-order s
 - If you would like to access the datasets to explore more analysis, you can find data folder contains `DIAS Attributes - Values 2017.xlsx` , `DIAS Information Levels - Attributes 2017.xlsx` , `random_forest_model.pkl` , and `logreg_model.pkl`.
 - To access all details about project workspace and datasets that I mentioned above, you can find `Arvato_Project_Workbook.ipynb`.
 
-### Results
+### 4. Results ** edit
 - found findings about aged group proportion, **will upload the result once my workbook finished
 - found insights when comparing the proportions from financial type between general population and the customer group.
 - findings in proportions based on income distribution
 
-### Acknowledgemnts
+### 5. Acknowledgemnts <a name="5."></a>
+
+- The Datasets used in this project's provided by Bertelsmann Arvato. Thankyou for their contribution for making this data available for analysis.
+- Thankyou for Udacity "Data Science Nanodegree Program" which granted access to this dataset, also provided valuable knowledge and resources.
+- This project's completed by Bernhard A. Alphama.
 
 ### Last progress on other workbook
 - continue analytics using some visualization
