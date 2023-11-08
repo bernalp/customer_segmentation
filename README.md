@@ -78,6 +78,20 @@ These conclusions and recommendations provide valuable insights to improve offer
 
 In simple-terms, using data helps improve our business. We can make smart decisions to stay ahead of the competition.
 
+### Technical Improvements
+
+- Review Data Quality
+- Feature Engineering
+- Model Improvement
+- Class Imbalance
+- Domain Expert Consultation
+- Regular Model Evaluation
+- Explore External Factors
+- Customer Segmentation
+- Experimentation and Prototyping
+
+By focusing on these areas, the business can develop reliable predictive models, provide solid foundation for data-driven decision-making, and improve overall business results.
+
 ### 5. Acknowledgemnts <a name="5."></a>
 
 - The Datasets used in this project's provided by Bertelsmann Arvato. Thankyou for their contribution for making this data available for analysis.
