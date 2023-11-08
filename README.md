@@ -57,6 +57,7 @@ In this project, we'll analyze demographics data for customers of a mail-order s
 - To access all details about project workspace and datasets that I mentioned above, you can find `Arvato_Project_Workbook.ipynb`.
 
 ### 4. Results  <a name="4."></a>
+These conclusions and recommendations provide valuable insights to improve marketing and services strategy. Data-driven approcah helps us make informed decisions, it's lead to sustainable growth & maximized Business ROI (Return on Investment).
 
 ### 4.1. Conclusions <a name="4.1."></a>
 
