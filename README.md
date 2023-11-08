@@ -9,6 +9,9 @@ sorry for inconvenience from unfinished page.
 - **2.** [Introduction](#2.)
 - **3.** [File Descriptions](#3.)
 - **4.** [Results](#4.)
+- **4.1.** [Conclusions](#4.1.)
+- **4.2.** [Future Improvements](#4.2.)
+- **4.3.** [Technical Improvements](#4.3.)
 - **5.** [Acknowledgemnts](#5.)
 
 ### 1. Installation <a name="1."></a>
@@ -55,7 +58,7 @@ In this project, we'll analyze demographics data for customers of a mail-order s
 
 ### 4. Results  <a name="4."></a>
 
-### Conclusions
+### 4.1. Conclusions <a name="4.1."></a>
 
 While all models show strong accuracy, the Logistic Regression model stands out for it's balanced performance between accuracy and ROC AUC. It effectively identifies potential customers while minimizing the risk of false positives, making it a suitable choice for targeted marketing efforts. However, continuous monitoring and model refinement are crucial to ensure the highest accuracy in predicting customer behavior.
 
@@ -69,7 +72,7 @@ Here's summarized conclusions that can support decision-making for the business:
 
 These conclusions and recommendations provide valuable insights to improve offer strategy, customer engagement, and marketing effectiveness in offer's utilization. These will leading to maximize business ROI (Return of Investments).
 
-### Future Improvements
+### 4.2. Future Improvements <a name="4.2."></a>
 
 - **Keep Updated Real-Time Data:** By incorporate real-time data, we can flow with the latest trend. This helps us respond fast and align our actions with what customers want right now.
 - **Enchance Data Knowledge:** Encourage our team to understand and use data effectively. When feels comfortable with data, we can create workplace where decisions are made based on solid information.
@@ -78,7 +81,7 @@ These conclusions and recommendations provide valuable insights to improve offer
 
 In simple-terms, using data helps improve our business. We can make smart decisions to stay ahead of the competition.
 
-### Technical Improvements
+### 4.3. Technical Improvements <a name="4.3."></a>
 
 - Review Data Quality
 - Feature Engineering
