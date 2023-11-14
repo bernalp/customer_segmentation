@@ -96,7 +96,7 @@ By focusing on these areas, the business can develop reliable predictive models,
 ### 5. Acknowledgemnts <a name="5."></a>
 
 - The Datasets used in this project's provided by [Bertelsmann Arvato](https://www.bertelsmann.com). Thankyou for their contribution for making this data available for analysis.
-- Thankyou for Udacity "Data Science Nanodegree Program" which granted access to this dataset, also provided valuable knowledge and resources.
+- Thankyou for [Udacity](https://www.udacity.com/) "Data Science Nanodegree Program" which granted access to this dataset, also provided valuable knowledge and resources.
 - This project's completed by Bernhard A. Alphama.
 
 
